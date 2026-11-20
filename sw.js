@@ -4,8 +4,8 @@
 // - Aset /assets/* (nama file ber-hash): cache-first.
 // - API Supabase TIDAK di-cache (beda origin, jadi memang tidak tersentuh).
 // - Push: tampilkan notifikasi dari Edge Function send-push; klik membuka URL-nya.
-const VERSI_CACHE = 'kelasx-v8'
-const ASET_CACHE = 'kelasx-aset-v8'
+const VERSI_CACHE = 'kelasx-v9'
+const ASET_CACHE = 'kelasx-aset-v9'
 
 self.addEventListener('install', (event) => {
   event.waitUntil(
