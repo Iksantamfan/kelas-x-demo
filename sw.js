@@ -4,7 +4,7 @@
 // - Aset /assets/* (nama file ber-hash): cache-first.
 // - API Supabase TIDAK di-cache (beda origin, jadi memang tidak tersentuh).
 // - Push: tampilkan notifikasi dari Edge Function send-push; klik membuka URL-nya.
-const VERSI_CACHE = 'kelasx-v33'
+const VERSI_CACHE = 'kelasx-v34'
 const ASET_CACHE = 'kelasx-aset-v23'
 
 self.addEventListener('install', (event) => {
@@ -99,15 +99,25 @@ self.addEventListener('push', (event) => {
 self.addEventListener('notificationclick', (event) => {
   event.notification.close()
   const url = (event.notification.data && event.notification.data.url) || '/'
+  // v10.31 (S3): hanya buka URL same-origin. URL absolut ke domain lain
+  // (atau //evil.com) diabaikan — jatuh ke halaman utama. Ini lapis
+  // kedua setelah allowlist di fungsi send-push.
+  let target = '/'
+  try {
+    const parsed = new URL(url, self.location.origin)
+    if (parsed.origin === self.location.origin) target = parsed.pathname + parsed.search + parsed.hash
+  } catch {
+    target = '/'
+  }
   event.waitUntil(
     self.clients
       .matchAll({ type: 'window', includeUncontrolled: true })
       .then((daftar) => {
-        const target = new URL(url, self.location.origin).href
+        const targetAbsolut = new URL(target, self.location.origin).href
         for (const klien of daftar) {
-          if (klien.url === target && 'focus' in klien) return klien.focus()
+          if (klien.url === targetAbsolut && 'focus' in klien) return klien.focus()
         }
-        return self.clients.openWindow(url)
+        return self.clients.openWindow(target)
       }),
   )
 })
