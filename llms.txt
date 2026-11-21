@@ -1,0 +1,48 @@
+# Kelas X — Website Kelas 10 PKBM
+
+> Website resmi Kelas X (kelas 10) di PKBM, dibuat oleh Iksan Maulana.
+> Berisi pengumuman, jadwal pelajaran, piket, kas kelas, tugas, materi,
+> galeri foto, struktur kelas, dan polling. Dipakai oleh 23 siswa sekelas.
+> Wali kelas: Fariz Fadhlillah, S.Kom. Slogan kelas:
+> "Kelas 10, We Can Grow Up Together".
+
+## Halaman publik
+
+- [Beranda](https://kelasx.my.id/): Ringkasan kelas, pengumuman terbaru, dan jalan pintas ke semua halaman.
+- [Pengumuman](https://kelasx.my.id/pengumuman): Pengumuman resmi kelas dari pengurus.
+- [Anggota](https://kelasx.my.id/anggota): Daftar 23 siswa Kelas X beserta peran dan profilnya.
+- [Jadwal](https://kelasx.my.id/jadwal): Jadwal pelajaran mingguan, Senin–Jumat.
+- [Piket](https://kelasx.my.id/piket): Jadwal piket kebersihan kelas harian.
+- [Kas](https://kelasx.my.id/kas): Iuran kas kelas Rp20.000 per bulan per siswa, dengan status Belum/Cicil/Lunas.
+- [Galeri](https://kelasx.my.id/galeri): Foto-foto kegiatan kelas.
+- [Materi](https://kelasx.my.id/materi): Materi pelajaran yang dibagikan pengurus.
+- [Tugas](https://kelasx.my.id/tugas): Daftar tugas kelas beserta tenggatnya.
+- [Struktur](https://kelasx.my.id/struktur): Struktur organisasi kelas.
+- [Ulangan](https://kelasx.my.id/ulangan): Jadwal ulangan dan pengingatnya.
+- [Tentang](https://kelasx.my.id/tentang): Tentang kelas dan website ini.
+- [Panduan](https://kelasx.my.id/panduan): Panduan memakai website dan memasang aplikasi (PWA).
+- [Layar](https://kelasx.my.id/layar): Tampilan layar kelas.
+- [Presentasi](https://kelasx.my.id/presentasi): Status presentasi kelompok per mata pelajaran.
+- [Kritik & Saran](https://kelasx.my.id/kritik-saran): Kotak kritik dan saran untuk kelas.
+- [Privasi](https://kelasx.my.id/privasi): Kebijakan privasi website.
+
+## Struktur kelas
+
+- Ketua Kelas: Imam Cahyadi
+- Wakil Ketua Kelas: Satiman
+- Sekretaris: Dafa Subhan, Zahrotul Sita
+- Bendahara: Khanza Nurul Aulia, Padma Regina Putri
+- Tim Media: Abdul Aziz Agoestian, Abil Raifi Pramana
+- Kebersihan: Habil El Fachri, Ahmad Romadhon
+- Keamanan: Iksan Maulana, Jericho Marvel Bintara
+- Pembuat website: Iksan Maulana
+
+## Halaman yang TIDAK publik
+
+Halaman berikut butuh login Google dan tidak tercantum di file ini:
+dashboard admin/pengurus, halaman login, pilih nama, dan profil pribadi.
+
+## Optional
+
+- [Versi lengkap (llms-full.txt)](https://kelasx.my.id/llms-full.txt): Ringkasan lengkap dengan jadwal pelajaran per hari, pengumuman aktif, tugas aktif, dan daftar lengkap 23 siswa.
+- [Peta situs (sitemap.xml)](https://kelasx.my.id/sitemap.xml): Daftar semua halaman publik.

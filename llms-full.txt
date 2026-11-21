@@ -1,0 +1,115 @@
+# Kelas X — Website Kelas 10 PKBM (versi lengkap)
+
+> Website resmi Kelas X (kelas 10) di PKBM, dibuat oleh Iksan Maulana.
+> Berisi pengumuman, jadwal pelajaran, piket, kas kelas, tugas, materi,
+> galeri foto, struktur kelas, dan polling. Dipakai oleh 23 siswa sekelas.
+> Wali kelas: Fariz Fadhlillah, S.Kom. Slogan kelas:
+> "Kelas 10, We Can Grow Up Together".
+> Data di bawah ini diambil dari website per 2026-11-21.
+> Halaman yang butuh login (dashboard, login, pilih nama, profil pribadi)
+> tidak tercantum di sini.
+
+## Tentang kelas
+
+Kelas X adalah kelas 10 di PKBM (Pusat Kegiatan Belajar Masyarakat) dengan
+23 siswa. Website ini adalah inisiatif siswa sendiri dan sudah disetujui
+wali kelas. Fungsinya bukan sekadar brosur: kelas memakai website ini untuk
+mencatat kas, tugas, pengumuman, jadwal, dan polling.
+
+## Struktur kelas
+
+- Wali Kelas: Fariz Fadhlillah, S.Kom.
+- Ketua Kelas: Imam Cahyadi
+- Wakil Ketua Kelas: Satiman
+- Sekretaris: Dafa Subhan, Zahrotul Sita
+- Bendahara: Khanza Nurul Aulia, Padma Regina Putri
+- Tim Media: Abdul Aziz Agoestian, Abil Raifi Pramana
+- Kebersihan: Habil El Fachri, Ahmad Romadhon
+- Keamanan: Iksan Maulana, Jericho Marvel Bintara
+- Pembuat website: Iksan Maulana
+
+## Daftar 23 siswa
+
+1. Abdul Aziz Agoestian — Tim Media
+2. Abil Raifi Pramana — Tim Media
+3. Adila Azahra — Anggota
+4. Claudia Praditaningrum — Anggota
+5. Dafa Subhan — Sekretaris
+6. Fitrah Al Khafidh Aulia — Anggota
+7. Habil El Fachri — Kebersihan
+8. Iksan Maulana — Keamanan, Pembuat Website
+9. Imam Cahyadi — Ketua Kelas
+10. Indy Ryendri — Anggota
+11. Jericho Marvel Bintara — Keamanan
+12. Khanza Nurul Aulia — Bendahara
+13. M. Erlangga Lesmana — Anggota
+14. M. Refaldi Rizki — Anggota
+15. Muhammad Khadafi — Anggota
+16. Muhammad Ragil — Anggota
+17. Muhammad Zafran — Anggota
+18. Nur Siti — Anggota
+19. Ahmad Romadhon — Kebersihan
+20. Padma Regina Putri — Bendahara
+21. Satiman — Wakil Ketua Kelas
+22. Septa Hafidz — Anggota
+23. Zahrotul Sita — Sekretaris
+
+## Jadwal pelajaran
+
+- Senin: Makan MBG 10:30–11:00; IPA (Bu Siti) 11:00–12:20; Istirahat 12:20–13:00; Matematika (Pak Gilang) 13:00–14:20.
+- Selasa: Makan MBG 10:30–11:00; PPKn (Bu Lia) 11:00–11:40; IPS (Pak Fariz) 11:40–12:20; Istirahat 12:20–13:00; IPS (Pak Fariz) 13:00–13:40; PJOK (Pak Andika) 13:40–15:00.
+- Rabu: Makan MBG 10:30–11:00; Seni Budaya (Bu Nunung) 11:00–11:40; Bahasa Inggris (Mis Evri) 11:40–12:20; Istirahat 12:20–13:00; Bahasa Inggris (Mis Evri) 13:00–13:40; TIK (Pak Fariz) 13:40–15:00.
+- Kamis: Makan MBG 10:30–11:00; Bahasa Indonesia (Bu Riana) 11:00–12:20; Istirahat 12:20–13:00; PPKn (Bu Lia) 13:00–13:40; Pendidikan Agama Islam (PAI) — Pak Fariz 13:40–15:00.
+- Jumat: Pembiasaan & Pemberdayaan 06:30–10:30. (piket Jumat: semua 23 siswa)
+- Pulang: 15.00 (Senin–Kamis).
+
+## Kas kelas
+
+Iuran Rp20.000 per bulan per siswa. Status per siswa: Belum, Cicil, atau
+Lunas. Bendahara mencatat pembayaran; riwayat per siswa dan laporan
+tersedia di halaman kas. (Status bayar per siswa tidak ditulis di sini.)
+
+## Pengumuman aktif
+
+- UPACARA HARI GURU TANGGAL 25 NOVEMBER — 06.30 Sampai Selesai
+- Ujian TANGGAL 30 NOVEMBER — Belajar Sungguh Sungguh Agar Dapet Nilai Yang Bagus
+
+## Tugas aktif
+
+- Kelompok Lari Jarak Jauh (PJOK) — tenggat 2026-11-24.
+
+## Galeri
+
+7 foto kegiatan kelas, termasuk foto kelas bersama dan foto Hari Pahlawan.
+
+## Fitur lain
+
+- Polling kelas: satu suara per akun Google yang sudah login.
+- Presentasi: status kelompok presentasi per mata pelajaran (IPA, PPKn);
+  kelompok yang tampil mengubah statusnya sendiri dari halaman publik.
+- Materi: materi pelajaran yang dibagikan pengurus.
+- Kritik & Saran: kotak masukan, bisa bernama atau anonim.
+- Login: semua siswa login dengan akun Google masing-masing; peran
+  (ketua/sekretaris/bendahara) menentukan apa yang bisa diubah.
+- Aplikasi: website bisa dipasang sebagai aplikasi (PWA) dari Safari/Chrome
+  dan mengirim notifikasi pengingat tugas.
+
+## Halaman publik
+
+- Beranda: https://kelasx.my.id/
+- Pengumuman: https://kelasx.my.id/pengumuman
+- Anggota: https://kelasx.my.id/anggota
+- Jadwal: https://kelasx.my.id/jadwal
+- Piket: https://kelasx.my.id/piket
+- Kas: https://kelasx.my.id/kas
+- Galeri: https://kelasx.my.id/galeri
+- Materi: https://kelasx.my.id/materi
+- Tugas: https://kelasx.my.id/tugas
+- Struktur: https://kelasx.my.id/struktur
+- Ulangan: https://kelasx.my.id/ulangan
+- Tentang: https://kelasx.my.id/tentang
+- Panduan: https://kelasx.my.id/panduan
+- Layar: https://kelasx.my.id/layar
+- Presentasi: https://kelasx.my.id/presentasi
+- Kritik & Saran: https://kelasx.my.id/kritik-saran
+- Privasi: https://kelasx.my.id/privasi

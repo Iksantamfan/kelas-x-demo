@@ -1,0 +1,53 @@
+# robots.txt — Kelas X (kelasx.my.id)
+# Halaman publik boleh dibaca crawler AI maupun mesin pencari.
+# Halaman yang butuh login tetap tertutup.
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: DuckAssistBot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: *
+Allow: /
+
+# Yang butuh login — jangan dirayapi / jangan diindeks.
+Disallow: /dashboard/
+Disallow: /login
+Disallow: /pilih-nama
+Disallow: /profil
+
+Sitemap: https://kelasx.my.id/sitemap.xml
