@@ -21,6 +21,7 @@
 - [Ulangan](https://kelasx.my.id/ulangan): Jadwal ulangan dan pengingatnya.
 - [Acara](https://kelasx.my.id/acara): Acara dan kegiatan kelas.
 - [Kuis](https://kelasx.my.id/kuis): Kuis online dengan penilaian otomatis.
+- [KelasX AI](https://kelasx.my.id/ai): Asisten AI kelas — tanya materi dan PR (tamu boleh tanya info umum; data pribadi butuh login Google).
 - [Tentang](https://kelasx.my.id/tentang): Tentang kelas dan website ini.
 - [Panduan](https://kelasx.my.id/panduan): Panduan memakai website dan memasang aplikasi (PWA).
 - [Layar](https://kelasx.my.id/layar): Tampilan layar kelas.
