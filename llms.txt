@@ -20,6 +20,7 @@
 - [Struktur](https://kelasx.my.id/struktur): Struktur organisasi kelas.
 - [Ulangan](https://kelasx.my.id/ulangan): Jadwal ulangan dan pengingatnya.
 - [Acara](https://kelasx.my.id/acara): Acara dan kegiatan kelas.
+- [Kuis](https://kelasx.my.id/kuis): Kuis online dengan penilaian otomatis.
 - [Tentang](https://kelasx.my.id/tentang): Tentang kelas dan website ini.
 - [Panduan](https://kelasx.my.id/panduan): Panduan memakai website dan memasang aplikasi (PWA).
 - [Layar](https://kelasx.my.id/layar): Tampilan layar kelas.
