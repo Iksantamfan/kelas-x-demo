@@ -5,7 +5,7 @@
 > galeri foto, struktur kelas, dan polling. Dipakai oleh 23 siswa sekelas.
 > Wali kelas: Fariz Fadhlillah, S.Kom. Slogan kelas:
 > "Kelas 10, We Can Grow Up Together".
-> Data di bawah ini diambil dari website per 2026-11-21.
+> Data di bawah ini diambil dari website per 2026-11-22.
 > Halaman yang butuh login (dashboard, login, pilih nama, profil pribadi)
 > tidak tercantum di sini.
 
@@ -76,6 +76,7 @@ tersedia di halaman kas. (Status bayar per siswa tidak ditulis di sini.)
 
 ## Tugas aktif
 
+- Tugas 1-15 (Matamatika) — tenggat 2026-11-23.
 - Kelompok Lari Jarak Jauh (PJOK) — tenggat 2026-11-24.
 
 ## Galeri
@@ -107,6 +108,7 @@ tersedia di halaman kas. (Status bayar per siswa tidak ditulis di sini.)
 - Tugas: https://kelasx.my.id/tugas
 - Struktur: https://kelasx.my.id/struktur
 - Ulangan: https://kelasx.my.id/ulangan
+- Acara: https://kelasx.my.id/acara
 - Tentang: https://kelasx.my.id/tentang
 - Panduan: https://kelasx.my.id/panduan
 - Layar: https://kelasx.my.id/layar
