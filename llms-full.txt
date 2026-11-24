@@ -5,7 +5,7 @@
 > galeri foto, struktur kelas, dan polling. Dipakai oleh 23 siswa sekelas.
 > Wali kelas: Fariz Fadhlillah, S.Kom. Slogan kelas:
 > "Kelas 10, We Can Grow Up Together".
-> Data di bawah ini diambil dari website per 2026-11-22.
+> Data di bawah ini diambil dari website per 2026-11-24.
 > Halaman yang butuh login (dashboard, login, pilih nama, profil pribadi)
 > tidak tercantum di sini.
 
