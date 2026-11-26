@@ -1,17 +1,17 @@
-# Kelas X — Website Kelas 10 PKBM (versi lengkap)
+# Kelas X — Website Kelas 10 SKB (versi lengkap)
 
-> Website resmi Kelas X (kelas 10) di PKBM, dibuat oleh Iksan Maulana.
+> Website resmi Kelas X (kelas 10) di SKB, dibuat oleh Iksan Maulana.
 > Berisi pengumuman, jadwal pelajaran, piket, kas kelas, tugas, materi,
 > galeri foto, struktur kelas, dan polling. Dipakai oleh 23 siswa sekelas.
 > Wali kelas: Fariz Fadhlillah, S.Kom. Slogan kelas:
 > "Kelas 10, We Can Grow Up Together".
-> Data di bawah ini diambil dari website per 2026-11-24.
+> Data di bawah ini diambil dari website per 2026-11-26.
 > Halaman yang butuh login (dashboard, login, pilih nama, profil pribadi)
 > tidak tercantum di sini.
 
 ## Tentang kelas
 
-Kelas X adalah kelas 10 di PKBM (Pusat Kegiatan Belajar Masyarakat) dengan
+Kelas X adalah kelas 10 di SKB (Sanggar Kegiatan Belajar) dengan
 23 siswa. Website ini adalah inisiatif siswa sendiri dan sudah disetujui
 wali kelas. Fungsinya bukan sekadar brosur: kelas memakai website ini untuk
 mencatat kas, tugas, pengumuman, jadwal, dan polling.
@@ -71,17 +71,15 @@ tersedia di halaman kas. (Status bayar per siswa tidak ditulis di sini.)
 
 ## Pengumuman aktif
 
-- UPACARA HARI GURU TANGGAL 25 NOVEMBER — 06.30 Sampai Selesai
 - Ujian TANGGAL 30 NOVEMBER — Belajar Sungguh Sungguh Agar Dapet Nilai Yang Bagus
 
 ## Tugas aktif
 
-- Tugas 1-15 (Matamatika) — tenggat 2026-11-23.
-- Kelompok Lari Jarak Jauh (PJOK) — tenggat 2026-11-24.
+- (Tidak ada tugas aktif saat ini.)
 
 ## Galeri
 
-7 foto kegiatan kelas, termasuk foto kelas bersama dan foto Hari Pahlawan.
+8 foto kegiatan kelas, termasuk foto kelas bersama dan foto Hari Pahlawan.
 
 ## Fitur lain
 

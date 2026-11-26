@@ -1,6 +1,6 @@
-# Kelas X — Website Kelas 10 PKBM
+# Kelas X — Website Kelas 10 SKB
 
-> Website resmi Kelas X (kelas 10) di PKBM, dibuat oleh Iksan Maulana.
+> Website resmi Kelas X (kelas 10) di SKB, dibuat oleh Iksan Maulana.
 > Berisi pengumuman, jadwal pelajaran, piket, kas kelas, tugas, materi,
 > galeri foto, struktur kelas, dan polling. Dipakai oleh 23 siswa sekelas.
 > Wali kelas: Fariz Fadhlillah, S.Kom. Slogan kelas:
